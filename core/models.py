@@ -1,6 +1,7 @@
 from django.db import models
 from core.choices import IndianRailwayZone, IndianState, StationTypeChoice
 
+
 class Station(models.Model):
     name = models.CharField(max_length=200)
     code = models.CharField(max_length=5)
@@ -11,6 +12,7 @@ class Station(models.Model):
 
     def __str__(self):
         return f'{self.code}-{self.name}'
+
 
 class Train(models.Model):
     name = models.CharField(max_length=200, unique=True)
