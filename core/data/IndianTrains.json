@@ -1,0 +1,1594 @@
+[
+    {
+        "train_name": "Ajmer Junction -> Bhubaneswar Economy Express",
+        "train_number": 16916,
+        "source_station": "Ajmer Junction",
+        "source_station_code": "AII",
+        "destination_station": "Bhubaneswar",
+        "destination_station_code": "BBS"
+    },
+    {
+        "train_name": "Kozhikode -> Bilaspur Junction Netravati Express",
+        "train_number": 40547,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Bilaspur Junction",
+        "destination_station_code": "BSP"
+    },
+    {
+        "train_name": "Kozhikode -> Muzaffarpur Junction Sampark Kranti Express",
+        "train_number": 79538,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Muzaffarpur Junction",
+        "destination_station_code": "MFP"
+    },
+    {
+        "train_name": "Vijayawada Junction -> New Delhi Superfast Express",
+        "train_number": 43516,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "New Delhi",
+        "destination_station_code": "NDLS"
+    },
+    {
+        "train_name": "Lucknow NR -> Mathura Junction Intercity Express",
+        "train_number": 44004,
+        "source_station": "Lucknow NR",
+        "source_station_code": "LKO",
+        "destination_station": "Mathura Junction",
+        "destination_station_code": "MTJ"
+    },
+    {
+        "train_name": "Nagpur Junction -> Gorakhpur Junction Tejas Express",
+        "train_number": 58100,
+        "source_station": "Nagpur Junction",
+        "source_station_code": "NGP",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Howrah Junction -> Rohtak Junction Jan Shatabdi Express",
+        "train_number": 43838,
+        "source_station": "Howrah Junction",
+        "source_station_code": "HWH",
+        "destination_station": "Rohtak Junction",
+        "destination_station_code": "ROK"
+    },
+    {
+        "train_name": "Madurai Junction -> Ambala Cantt Junction Mail Express",
+        "train_number": 38336,
+        "source_station": "Madurai Junction",
+        "source_station_code": "MDU",
+        "destination_station": "Ambala Cantt Junction",
+        "destination_station_code": "UMB"
+    },
+    {
+        "train_name": "Puri -> Muzaffarpur Junction Mail Express",
+        "train_number": 49698,
+        "source_station": "Puri",
+        "source_station_code": "PURI",
+        "destination_station": "Muzaffarpur Junction",
+        "destination_station_code": "MFP"
+    },
+    {
+        "train_name": "Nagpur Junction -> Dhanbad Junction Double Decker Express",
+        "train_number": 27769,
+        "source_station": "Nagpur Junction",
+        "source_station_code": "NGP",
+        "destination_station": "Dhanbad Junction",
+        "destination_station_code": "DHN"
+    },
+    {
+        "train_name": "Gorakhpur Junction -> Siliguri Junction Economy Express",
+        "train_number": 33597,
+        "source_station": "Gorakhpur Junction",
+        "source_station_code": "GKP",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Barddhaman Junction -> Ajmer Junction Superfast Express",
+        "train_number": 12517,
+        "source_station": "Barddhaman Junction",
+        "source_station_code": "BWN",
+        "destination_station": "Ajmer Junction",
+        "destination_station_code": "AII"
+    },
+    {
+        "train_name": "Agra Cantt -> Siliguri Junction Economy Express",
+        "train_number": 17253,
+        "source_station": "Agra Cantt",
+        "source_station_code": "AGC",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Bhopal Junction -> Jhansi Junction Intercity Express",
+        "train_number": 43562,
+        "source_station": "Bhopal Junction",
+        "source_station_code": "BPL",
+        "destination_station": "Jhansi Junction",
+        "destination_station_code": "JHS"
+    },
+    {
+        "train_name": "Coimbatore Junction -> Jaipur Junction Netravati Express",
+        "train_number": 84492,
+        "source_station": "Coimbatore Junction",
+        "source_station_code": "CBE",
+        "destination_station": "Jaipur Junction",
+        "destination_station_code": "JP"
+    },
+    {
+        "train_name": "Jaipur Junction -> Rewari Junction Mail Express",
+        "train_number": 75029,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Rewari Junction",
+        "destination_station_code": "RE"
+    },
+    {
+        "train_name": "Guwahati -> Ludhiana Junction Intercity Express",
+        "train_number": 22656,
+        "source_station": "Guwahati",
+        "source_station_code": "GHY",
+        "destination_station": "Ludhiana Junction",
+        "destination_station_code": "LDH"
+    },
+    {
+        "train_name": "Mysore Junction -> Ranchi Junction Konkan Kanya Express",
+        "train_number": 20160,
+        "source_station": "Mysore Junction",
+        "source_station_code": "MYS",
+        "destination_station": "Ranchi Junction",
+        "destination_station_code": "RNC"
+    },
+    {
+        "train_name": "Rameswaram -> Rohtak Junction Jan Shatabdi Express",
+        "train_number": 38111,
+        "source_station": "Rameswaram",
+        "source_station_code": "RMM",
+        "destination_station": "Rohtak Junction",
+        "destination_station_code": "ROK"
+    },
+    {
+        "train_name": "Ranchi Junction -> Hissar Tejas Express",
+        "train_number": 87620,
+        "source_station": "Ranchi Junction",
+        "source_station_code": "RNC",
+        "destination_station": "Hissar",
+        "destination_station_code": "HSR"
+    },
+    {
+        "train_name": "Amritsar Junction -> New Delhi Garib Rath Express",
+        "train_number": 72214,
+        "source_station": "Amritsar Junction",
+        "source_station_code": "ASR",
+        "destination_station": "New Delhi",
+        "destination_station_code": "NDLS"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Gorakhpur Junction Konkan Kanya Express",
+        "train_number": 14409,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Varanasi Junction -> Mysore Junction Sampark Kranti Express",
+        "train_number": 10711,
+        "source_station": "Varanasi Junction",
+        "source_station_code": "BSB",
+        "destination_station": "Mysore Junction",
+        "destination_station_code": "MYS"
+    },
+    {
+        "train_name": "Pune Junction -> Mumbai Central Fast Passenger",
+        "train_number": 41628,
+        "source_station": "Pune Junction",
+        "source_station_code": "PUNE",
+        "destination_station": "Mumbai Central",
+        "destination_station_code": "BCT"
+    },
+    {
+        "train_name": "Salem Junction -> Bilaspur Junction Konkan Kanya Express",
+        "train_number": 57916,
+        "source_station": "Salem Junction",
+        "source_station_code": "SA",
+        "destination_station": "Bilaspur Junction",
+        "destination_station_code": "BSP"
+    },
+    {
+        "train_name": "Gwalior -> Visakhapatnam Intercity Express",
+        "train_number": 81250,
+        "source_station": "Gwalior",
+        "source_station_code": "GWL",
+        "destination_station": "Visakhapatnam",
+        "destination_station_code": "VSKP"
+    },
+    {
+        "train_name": "Gwalior -> Jodhpur Junction Sampark Kranti Express",
+        "train_number": 25564,
+        "source_station": "Gwalior",
+        "source_station_code": "GWL",
+        "destination_station": "Jodhpur Junction",
+        "destination_station_code": "JU"
+    },
+    {
+        "train_name": "Jaipur Junction -> Nagpur Junction Mail Express",
+        "train_number": 52339,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Nagpur Junction",
+        "destination_station_code": "NGP"
+    },
+    {
+        "train_name": "Rohtak Junction -> Kanpur Central Sampark Kranti Express",
+        "train_number": 38655,
+        "source_station": "Rohtak Junction",
+        "source_station_code": "ROK",
+        "destination_station": "Kanpur Central",
+        "destination_station_code": "CNB"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Salem Junction Shatabdi Express",
+        "train_number": 45283,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Pune Junction -> Kota Junction Superfast Express",
+        "train_number": 27306,
+        "source_station": "Pune Junction",
+        "source_station_code": "PUNE",
+        "destination_station": "Kota Junction",
+        "destination_station_code": "KOTA"
+    },
+    {
+        "train_name": "Tirupati -> Madurai Junction Netravati Express",
+        "train_number": 80287,
+        "source_station": "Tirupati",
+        "source_station_code": "TPTY",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Kozhikode -> Mangalore Central Superfast Express",
+        "train_number": 87381,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Mangalore Central",
+        "destination_station_code": "MAQ"
+    },
+    {
+        "train_name": "Pune Junction -> Guwahati Rajdhani Express",
+        "train_number": 89780,
+        "source_station": "Pune Junction",
+        "source_station_code": "PUNE",
+        "destination_station": "Guwahati",
+        "destination_station_code": "GHY"
+    },
+    {
+        "train_name": "Nagpur Junction -> Gaya Junction Express",
+        "train_number": 71061,
+        "source_station": "Nagpur Junction",
+        "source_station_code": "NGP",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Barddhaman Junction -> Jhansi Junction Duronto Express",
+        "train_number": 12826,
+        "source_station": "Barddhaman Junction",
+        "source_station_code": "BWN",
+        "destination_station": "Jhansi Junction",
+        "destination_station_code": "JHS"
+    },
+    {
+        "train_name": "Ranchi Junction -> Ambala Cantt Junction August Kranti Express",
+        "train_number": 17585,
+        "source_station": "Ranchi Junction",
+        "source_station_code": "RNC",
+        "destination_station": "Ambala Cantt Junction",
+        "destination_station_code": "UMB"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Jodhpur Junction Mail Express",
+        "train_number": 27551,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Jodhpur Junction",
+        "destination_station_code": "JU"
+    },
+    {
+        "train_name": "Ratlam Junction -> Lucknow NR Double Decker Express",
+        "train_number": 76595,
+        "source_station": "Ratlam Junction",
+        "source_station_code": "RTM",
+        "destination_station": "Lucknow NR",
+        "destination_station_code": "LKO"
+    },
+    {
+        "train_name": "Tirupati -> Allahabad Junction Mail Express",
+        "train_number": 63182,
+        "source_station": "Tirupati",
+        "source_station_code": "TPTY",
+        "destination_station": "Allahabad Junction",
+        "destination_station_code": "PRYJ"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Darbhanga Junction Shatabdi Express",
+        "train_number": 26433,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Darbhanga Junction",
+        "destination_station_code": "DBG"
+    },
+    {
+        "train_name": "Mysore Junction -> Varanasi Junction August Kranti Express",
+        "train_number": 51893,
+        "source_station": "Mysore Junction",
+        "source_station_code": "MYS",
+        "destination_station": "Varanasi Junction",
+        "destination_station_code": "BSB"
+    },
+    {
+        "train_name": "Allahabad Junction -> Guwahati Konkan Kanya Express",
+        "train_number": 36469,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Guwahati",
+        "destination_station_code": "GHY"
+    },
+    {
+        "train_name": "Allahabad Junction -> Meerut City Double Decker Express",
+        "train_number": 70423,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Meerut City",
+        "destination_station_code": "MTC"
+    },
+    {
+        "train_name": "Faridabad -> Salem Junction Sampark Kranti Express",
+        "train_number": 39610,
+        "source_station": "Faridabad",
+        "source_station_code": "FDB",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Patna Junction -> Allahabad Junction August Kranti Express",
+        "train_number": 81057,
+        "source_station": "Patna Junction",
+        "source_station_code": "PNBE",
+        "destination_station": "Allahabad Junction",
+        "destination_station_code": "PRYJ"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Jabalpur Junction Mail",
+        "train_number": 84256,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Jabalpur Junction",
+        "destination_station_code": "JBP"
+    },
+    {
+        "train_name": "Visakhapatnam -> Ranchi Junction Rajdhani Express",
+        "train_number": 31395,
+        "source_station": "Visakhapatnam",
+        "source_station_code": "VSKP",
+        "destination_station": "Ranchi Junction",
+        "destination_station_code": "RNC"
+    },
+    {
+        "train_name": "Jaipur Junction -> Pune Junction Rajdhani Express",
+        "train_number": 63774,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Pune Junction",
+        "destination_station_code": "PUNE"
+    },
+    {
+        "train_name": "Tirupati -> Bhavnagar Terminus Intercity Express",
+        "train_number": 51291,
+        "source_station": "Tirupati",
+        "source_station_code": "TPTY",
+        "destination_station": "Bhavnagar Terminus",
+        "destination_station_code": "BVC"
+    },
+    {
+        "train_name": "Guwahati -> Salem Junction Jan Shatabdi Express",
+        "train_number": 52374,
+        "source_station": "Guwahati",
+        "source_station_code": "GHY",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Kanpur Central -> Gorakhpur Junction Shatabdi Express",
+        "train_number": 23228,
+        "source_station": "Kanpur Central",
+        "source_station_code": "CNB",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Bhopal Junction -> Nagpur Junction Economy Express",
+        "train_number": 18534,
+        "source_station": "Bhopal Junction",
+        "source_station_code": "BPL",
+        "destination_station": "Nagpur Junction",
+        "destination_station_code": "NGP"
+    },
+    {
+        "train_name": "Jodhpur Junction -> Gorakhpur Junction Intercity Express",
+        "train_number": 51166,
+        "source_station": "Jodhpur Junction",
+        "source_station_code": "JU",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Kharagpur Junction -> Jhansi Junction Economy Express",
+        "train_number": 28110,
+        "source_station": "Kharagpur Junction",
+        "source_station_code": "KGP",
+        "destination_station": "Jhansi Junction",
+        "destination_station_code": "JHS"
+    },
+    {
+        "train_name": "Nanded -> Ajmer Junction August Kranti Express",
+        "train_number": 40787,
+        "source_station": "Nanded",
+        "source_station_code": "NED",
+        "destination_station": "Ajmer Junction",
+        "destination_station_code": "AII"
+    },
+    {
+        "train_name": "Nanded -> Rohtak Junction Shatabdi Express",
+        "train_number": 16699,
+        "source_station": "Nanded",
+        "source_station_code": "NED",
+        "destination_station": "Rohtak Junction",
+        "destination_station_code": "ROK"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Puri Intercity Express",
+        "train_number": 61543,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Puri",
+        "destination_station_code": "PURI"
+    },
+    {
+        "train_name": "Siliguri Junction -> Ratlam Junction Superfast Express",
+        "train_number": 15716,
+        "source_station": "Siliguri Junction",
+        "source_station_code": "SGUJ",
+        "destination_station": "Ratlam Junction",
+        "destination_station_code": "RTM"
+    },
+    {
+        "train_name": "Mumbai Central -> Puri Economy Express",
+        "train_number": 61619,
+        "source_station": "Mumbai Central",
+        "source_station_code": "BCT",
+        "destination_station": "Puri",
+        "destination_station_code": "PURI"
+    },
+    {
+        "train_name": "Faridabad -> Gaya Junction Konkan Kanya Express",
+        "train_number": 53830,
+        "source_station": "Faridabad",
+        "source_station_code": "FDB",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Allahabad Junction -> Rameswaram August Kranti Express",
+        "train_number": 56715,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Rameswaram",
+        "destination_station_code": "RMM"
+    },
+    {
+        "train_name": "Mathura Junction -> Howrah Junction Express",
+        "train_number": 76240,
+        "source_station": "Mathura Junction",
+        "source_station_code": "MTJ",
+        "destination_station": "Howrah Junction",
+        "destination_station_code": "HWH"
+    },
+    {
+        "train_name": "Hubli Junction -> Bhavnagar Terminus Fast Passenger",
+        "train_number": 51501,
+        "source_station": "Hubli Junction",
+        "source_station_code": "UBL",
+        "destination_station": "Bhavnagar Terminus",
+        "destination_station_code": "BVC"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Kota Junction Netravati Express",
+        "train_number": 81424,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Kota Junction",
+        "destination_station_code": "KOTA"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Kozhikode Netravati Express",
+        "train_number": 11167,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Kozhikode",
+        "destination_station_code": "CLT"
+    },
+    {
+        "train_name": "Kota Junction -> Rameswaram Duronto Express",
+        "train_number": 64937,
+        "source_station": "Kota Junction",
+        "source_station_code": "KOTA",
+        "destination_station": "Rameswaram",
+        "destination_station_code": "RMM"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Lucknow NR Duronto Express",
+        "train_number": 50174,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Lucknow NR",
+        "destination_station_code": "LKO"
+    },
+    {
+        "train_name": "Coimbatore Junction -> Faridabad Economy Express",
+        "train_number": 86775,
+        "source_station": "Coimbatore Junction",
+        "source_station_code": "CBE",
+        "destination_station": "Faridabad",
+        "destination_station_code": "FDB"
+    },
+    {
+        "train_name": "Kozhikode -> Tirupati Fast Passenger",
+        "train_number": 12314,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Tirupati",
+        "destination_station_code": "TPTY"
+    },
+    {
+        "train_name": "Siliguri Junction -> Ambala Cantt Junction Tejas Express",
+        "train_number": 66356,
+        "source_station": "Siliguri Junction",
+        "source_station_code": "SGUJ",
+        "destination_station": "Ambala Cantt Junction",
+        "destination_station_code": "UMB"
+    },
+    {
+        "train_name": "Salem Junction -> Howrah Junction Mail Express",
+        "train_number": 51372,
+        "source_station": "Salem Junction",
+        "source_station_code": "SA",
+        "destination_station": "Howrah Junction",
+        "destination_station_code": "HWH"
+    },
+    {
+        "train_name": "Patna Junction -> Panipat Junction Garib Rath Express",
+        "train_number": 19094,
+        "source_station": "Patna Junction",
+        "source_station_code": "PNBE",
+        "destination_station": "Panipat Junction",
+        "destination_station_code": "PNP"
+    },
+    {
+        "train_name": "Secunderabad Junction -> Mumbai Central Express",
+        "train_number": 57442,
+        "source_station": "Secunderabad Junction",
+        "source_station_code": "SC",
+        "destination_station": "Mumbai Central",
+        "destination_station_code": "BCT"
+    },
+    {
+        "train_name": "Howrah Junction -> Patna Junction Sampark Kranti Express",
+        "train_number": 46501,
+        "source_station": "Howrah Junction",
+        "source_station_code": "HWH",
+        "destination_station": "Patna Junction",
+        "destination_station_code": "PNBE"
+    },
+    {
+        "train_name": "Salem Junction -> Ambala Cantt Junction Shatabdi Express",
+        "train_number": 73832,
+        "source_station": "Salem Junction",
+        "source_station_code": "SA",
+        "destination_station": "Ambala Cantt Junction",
+        "destination_station_code": "UMB"
+    },
+    {
+        "train_name": "Jaipur Junction -> Siliguri Junction Jan Shatabdi Express",
+        "train_number": 47748,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Allahabad Junction -> Vijayawada Junction Double Decker Express",
+        "train_number": 63854,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Vijayawada Junction",
+        "destination_station_code": "BZA"
+    },
+    {
+        "train_name": "Nanded -> Gorakhpur Junction Fast Passenger",
+        "train_number": 14110,
+        "source_station": "Nanded",
+        "source_station_code": "NED",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Ujjain Junction -> Mumbai Central Rajdhani Express",
+        "train_number": 26856,
+        "source_station": "Ujjain Junction",
+        "source_station_code": "UJN",
+        "destination_station": "Mumbai Central",
+        "destination_station_code": "BCT"
+    },
+    {
+        "train_name": "Rohtak Junction -> Hissar Superfast Express",
+        "train_number": 48458,
+        "source_station": "Rohtak Junction",
+        "source_station_code": "ROK",
+        "destination_station": "Hissar",
+        "destination_station_code": "HSR"
+    },
+    {
+        "train_name": "Agra Cantt -> Raipur Junction Intercity Express",
+        "train_number": 79564,
+        "source_station": "Agra Cantt",
+        "source_station_code": "AGC",
+        "destination_station": "Raipur Junction",
+        "destination_station_code": "R"
+    },
+    {
+        "train_name": "Chandigarh -> Katihar Junction Rajdhani Express",
+        "train_number": 75083,
+        "source_station": "Chandigarh",
+        "source_station_code": "CDG",
+        "destination_station": "Katihar Junction",
+        "destination_station_code": "KIR"
+    },
+    {
+        "train_name": "Guwahati -> Muzaffarpur Junction Economy Express",
+        "train_number": 16253,
+        "source_station": "Guwahati",
+        "source_station_code": "GHY",
+        "destination_station": "Muzaffarpur Junction",
+        "destination_station_code": "MFP"
+    },
+    {
+        "train_name": "Coimbatore Junction -> Pune Junction Rajdhani Express",
+        "train_number": 63786,
+        "source_station": "Coimbatore Junction",
+        "source_station_code": "CBE",
+        "destination_station": "Pune Junction",
+        "destination_station_code": "PUNE"
+    },
+    {
+        "train_name": "Rewari Junction -> Dhanbad Junction Double Decker Express",
+        "train_number": 11873,
+        "source_station": "Rewari Junction",
+        "source_station_code": "RE",
+        "destination_station": "Dhanbad Junction",
+        "destination_station_code": "DHN"
+    },
+    {
+        "train_name": "Mathura Junction -> Visakhapatnam Rajdhani Express",
+        "train_number": 25729,
+        "source_station": "Mathura Junction",
+        "source_station_code": "MTJ",
+        "destination_station": "Visakhapatnam",
+        "destination_station_code": "VSKP"
+    },
+    {
+        "train_name": "Bhopal Junction -> Salem Junction Tejas Express",
+        "train_number": 42149,
+        "source_station": "Bhopal Junction",
+        "source_station_code": "BPL",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Rameswaram -> Ahmedabad Junction Sampark Kranti Express",
+        "train_number": 63012,
+        "source_station": "Rameswaram",
+        "source_station_code": "RMM",
+        "destination_station": "Ahmedabad Junction",
+        "destination_station_code": "ADI"
+    },
+    {
+        "train_name": "Jaipur Junction -> Mangalore Central Sampark Kranti Express",
+        "train_number": 35294,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Mangalore Central",
+        "destination_station_code": "MAQ"
+    },
+    {
+        "train_name": "Muzaffarpur Junction -> Gaya Junction Economy Express",
+        "train_number": 21992,
+        "source_station": "Muzaffarpur Junction",
+        "source_station_code": "MFP",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Siliguri Junction -> Bilaspur Junction Fast Passenger",
+        "train_number": 22854,
+        "source_station": "Siliguri Junction",
+        "source_station_code": "SGUJ",
+        "destination_station": "Bilaspur Junction",
+        "destination_station_code": "BSP"
+    },
+    {
+        "train_name": "Rewari Junction -> Ajmer Junction Duronto Express",
+        "train_number": 44348,
+        "source_station": "Rewari Junction",
+        "source_station_code": "RE",
+        "destination_station": "Ajmer Junction",
+        "destination_station_code": "AII"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Madurai Junction Tejas Express",
+        "train_number": 70567,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Mathura Junction -> Pune Junction Express",
+        "train_number": 63838,
+        "source_station": "Mathura Junction",
+        "source_station_code": "MTJ",
+        "destination_station": "Pune Junction",
+        "destination_station_code": "PUNE"
+    },
+    {
+        "train_name": "Dibrugarh -> Nagpur Junction Economy Express",
+        "train_number": 79145,
+        "source_station": "Dibrugarh",
+        "source_station_code": "DBRG",
+        "destination_station": "Nagpur Junction",
+        "destination_station_code": "NGP"
+    },
+    {
+        "train_name": "Mangalore Central -> Kozhikode Jan Shatabdi Express",
+        "train_number": 61169,
+        "source_station": "Mangalore Central",
+        "source_station_code": "MAQ",
+        "destination_station": "Kozhikode",
+        "destination_station_code": "CLT"
+    },
+    {
+        "train_name": "Bikaner Junction -> Hissar Express",
+        "train_number": 13124,
+        "source_station": "Bikaner Junction",
+        "source_station_code": "BKN",
+        "destination_station": "Hissar",
+        "destination_station_code": "HSR"
+    },
+    {
+        "train_name": "Salem Junction -> Mysore Junction Superfast Express",
+        "train_number": 55615,
+        "source_station": "Salem Junction",
+        "source_station_code": "SA",
+        "destination_station": "Mysore Junction",
+        "destination_station_code": "MYS"
+    },
+    {
+        "train_name": "Ahmedabad Junction -> Madurai Junction Double Decker Express",
+        "train_number": 56758,
+        "source_station": "Ahmedabad Junction",
+        "source_station_code": "ADI",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Jabalpur Junction -> Bhubaneswar Economy Express",
+        "train_number": 79370,
+        "source_station": "Jabalpur Junction",
+        "source_station_code": "JBP",
+        "destination_station": "Bhubaneswar",
+        "destination_station_code": "BBS"
+    },
+    {
+        "train_name": "Rewari Junction -> Hubli Junction August Kranti Express",
+        "train_number": 29132,
+        "source_station": "Rewari Junction",
+        "source_station_code": "RE",
+        "destination_station": "Hubli Junction",
+        "destination_station_code": "UBL"
+    },
+    {
+        "train_name": "Katihar Junction -> Silchar Double Decker Express",
+        "train_number": 31030,
+        "source_station": "Katihar Junction",
+        "source_station_code": "KIR",
+        "destination_station": "Silchar",
+        "destination_station_code": "SCL"
+    },
+    {
+        "train_name": "Ahmedabad Junction -> Bhopal Junction Shatabdi Express",
+        "train_number": 78082,
+        "source_station": "Ahmedabad Junction",
+        "source_station_code": "ADI",
+        "destination_station": "Bhopal Junction",
+        "destination_station_code": "BPL"
+    },
+    {
+        "train_name": "Gorakhpur Junction -> Rameswaram Superfast Express",
+        "train_number": 33875,
+        "source_station": "Gorakhpur Junction",
+        "source_station_code": "GKP",
+        "destination_station": "Rameswaram",
+        "destination_station_code": "RMM"
+    },
+    {
+        "train_name": "Panipat Junction -> Salem Junction Netravati Express",
+        "train_number": 83318,
+        "source_station": "Panipat Junction",
+        "source_station_code": "PNP",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Dhanbad Junction -> Hubli Junction Jan Shatabdi Express",
+        "train_number": 13685,
+        "source_station": "Dhanbad Junction",
+        "source_station_code": "DHN",
+        "destination_station": "Hubli Junction",
+        "destination_station_code": "UBL"
+    },
+    {
+        "train_name": "Mumbai Central -> Dhanbad Junction Intercity Express",
+        "train_number": 39102,
+        "source_station": "Mumbai Central",
+        "source_station_code": "BCT",
+        "destination_station": "Dhanbad Junction",
+        "destination_station_code": "DHN"
+    },
+    {
+        "train_name": "Mathura Junction -> Panipat Junction Jan Shatabdi Express",
+        "train_number": 24742,
+        "source_station": "Mathura Junction",
+        "source_station_code": "MTJ",
+        "destination_station": "Panipat Junction",
+        "destination_station_code": "PNP"
+    },
+    {
+        "train_name": "Mangalore Central -> Varanasi Junction Economy Express",
+        "train_number": 70459,
+        "source_station": "Mangalore Central",
+        "source_station_code": "MAQ",
+        "destination_station": "Varanasi Junction",
+        "destination_station_code": "BSB"
+    },
+    {
+        "train_name": "Kharagpur Junction -> Madurai Junction Garib Rath Express",
+        "train_number": 14484,
+        "source_station": "Kharagpur Junction",
+        "source_station_code": "KGP",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Ranchi Junction -> Meerut City Mail",
+        "train_number": 66535,
+        "source_station": "Ranchi Junction",
+        "source_station_code": "RNC",
+        "destination_station": "Meerut City",
+        "destination_station_code": "MTC"
+    },
+    {
+        "train_name": "Jodhpur Junction -> Puri Netravati Express",
+        "train_number": 33936,
+        "source_station": "Jodhpur Junction",
+        "source_station_code": "JU",
+        "destination_station": "Puri",
+        "destination_station_code": "PURI"
+    },
+    {
+        "train_name": "Allahabad Junction -> Bhubaneswar Mail",
+        "train_number": 73545,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Bhubaneswar",
+        "destination_station_code": "BBS"
+    },
+    {
+        "train_name": "Agra Cantt -> Visakhapatnam Jan Shatabdi Express",
+        "train_number": 75715,
+        "source_station": "Agra Cantt",
+        "source_station_code": "AGC",
+        "destination_station": "Visakhapatnam",
+        "destination_station_code": "VSKP"
+    },
+    {
+        "train_name": "Ajmer Junction -> Varanasi Junction Intercity Express",
+        "train_number": 57058,
+        "source_station": "Ajmer Junction",
+        "source_station_code": "AII",
+        "destination_station": "Varanasi Junction",
+        "destination_station_code": "BSB"
+    },
+    {
+        "train_name": "Gwalior -> Meerut City Jan Shatabdi Express",
+        "train_number": 55560,
+        "source_station": "Gwalior",
+        "source_station_code": "GWL",
+        "destination_station": "Meerut City",
+        "destination_station_code": "MTC"
+    },
+    {
+        "train_name": "Jaipur Junction -> Nanded Shatabdi Express",
+        "train_number": 46195,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Nanded",
+        "destination_station_code": "NED"
+    },
+    {
+        "train_name": "Kozhikode -> Kharagpur Junction Double Decker Express",
+        "train_number": 73626,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Kharagpur Junction",
+        "destination_station_code": "KGP"
+    },
+    {
+        "train_name": "Allahabad Junction -> Secunderabad Junction Rajdhani Express",
+        "train_number": 27601,
+        "source_station": "Allahabad Junction",
+        "source_station_code": "PRYJ",
+        "destination_station": "Secunderabad Junction",
+        "destination_station_code": "SC"
+    },
+    {
+        "train_name": "Hubli Junction -> Hajipur Junction Mail",
+        "train_number": 14850,
+        "source_station": "Hubli Junction",
+        "source_station_code": "UBL",
+        "destination_station": "Hajipur Junction",
+        "destination_station_code": "HJP"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Secunderabad Junction Express",
+        "train_number": 29525,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Secunderabad Junction",
+        "destination_station_code": "SC"
+    },
+    {
+        "train_name": "Dibrugarh -> Hissar Mail",
+        "train_number": 71905,
+        "source_station": "Dibrugarh",
+        "source_station_code": "DBRG",
+        "destination_station": "Hissar",
+        "destination_station_code": "HSR"
+    },
+    {
+        "train_name": "Gaya Junction -> Ujjain Junction Shatabdi Express",
+        "train_number": 44634,
+        "source_station": "Gaya Junction",
+        "source_station_code": "GAYA",
+        "destination_station": "Ujjain Junction",
+        "destination_station_code": "UJN"
+    },
+    {
+        "train_name": "Faridabad -> Muzaffarpur Junction Duronto Express",
+        "train_number": 75574,
+        "source_station": "Faridabad",
+        "source_station_code": "FDB",
+        "destination_station": "Muzaffarpur Junction",
+        "destination_station_code": "MFP"
+    },
+    {
+        "train_name": "Lucknow NR -> Salem Junction Netravati Express",
+        "train_number": 12487,
+        "source_station": "Lucknow NR",
+        "source_station_code": "LKO",
+        "destination_station": "Salem Junction",
+        "destination_station_code": "SA"
+    },
+    {
+        "train_name": "Coimbatore Junction -> Gaya Junction Tejas Express",
+        "train_number": 21772,
+        "source_station": "Coimbatore Junction",
+        "source_station_code": "CBE",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Ranchi Junction -> Bikaner Junction Shatabdi Express",
+        "train_number": 16775,
+        "source_station": "Ranchi Junction",
+        "source_station_code": "RNC",
+        "destination_station": "Bikaner Junction",
+        "destination_station_code": "BKN"
+    },
+    {
+        "train_name": "Rewari Junction -> Madurai Junction Mail",
+        "train_number": 13388,
+        "source_station": "Rewari Junction",
+        "source_station_code": "RE",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Ahmedabad Junction -> Barddhaman Junction Netravati Express",
+        "train_number": 44451,
+        "source_station": "Ahmedabad Junction",
+        "source_station_code": "ADI",
+        "destination_station": "Barddhaman Junction",
+        "destination_station_code": "BWN"
+    },
+    {
+        "train_name": "Hubli Junction -> Ujjain Junction Konkan Kanya Express",
+        "train_number": 82011,
+        "source_station": "Hubli Junction",
+        "source_station_code": "UBL",
+        "destination_station": "Ujjain Junction",
+        "destination_station_code": "UJN"
+    },
+    {
+        "train_name": "Hubli Junction -> Bhopal Junction August Kranti Express",
+        "train_number": 30437,
+        "source_station": "Hubli Junction",
+        "source_station_code": "UBL",
+        "destination_station": "Bhopal Junction",
+        "destination_station_code": "BPL"
+    },
+    {
+        "train_name": "Ahmedabad Junction -> Tirupati Express",
+        "train_number": 28533,
+        "source_station": "Ahmedabad Junction",
+        "source_station_code": "ADI",
+        "destination_station": "Tirupati",
+        "destination_station_code": "TPTY"
+    },
+    {
+        "train_name": "Bhubaneswar -> Mysore Junction Economy Express",
+        "train_number": 26336,
+        "source_station": "Bhubaneswar",
+        "source_station_code": "BBS",
+        "destination_station": "Mysore Junction",
+        "destination_station_code": "MYS"
+    },
+    {
+        "train_name": "Mangalore Central -> Dhanbad Junction Express",
+        "train_number": 27820,
+        "source_station": "Mangalore Central",
+        "source_station_code": "MAQ",
+        "destination_station": "Dhanbad Junction",
+        "destination_station_code": "DHN"
+    },
+    {
+        "train_name": "Mysore Junction -> Puri Sampark Kranti Express",
+        "train_number": 48087,
+        "source_station": "Mysore Junction",
+        "source_station_code": "MYS",
+        "destination_station": "Puri",
+        "destination_station_code": "PURI"
+    },
+    {
+        "train_name": "Silchar -> Siliguri Junction Mail Express",
+        "train_number": 63890,
+        "source_station": "Silchar",
+        "source_station_code": "SCL",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Lucknow NR -> Panipat Junction Double Decker Express",
+        "train_number": 42847,
+        "source_station": "Lucknow NR",
+        "source_station_code": "LKO",
+        "destination_station": "Panipat Junction",
+        "destination_station_code": "PNP"
+    },
+    {
+        "train_name": "Nagpur Junction -> Jhansi Junction Netravati Express",
+        "train_number": 33561,
+        "source_station": "Nagpur Junction",
+        "source_station_code": "NGP",
+        "destination_station": "Jhansi Junction",
+        "destination_station_code": "JHS"
+    },
+    {
+        "train_name": "Katihar Junction -> Gwalior Superfast Express",
+        "train_number": 33643,
+        "source_station": "Katihar Junction",
+        "source_station_code": "KIR",
+        "destination_station": "Gwalior",
+        "destination_station_code": "GWL"
+    },
+    {
+        "train_name": "Puri -> Hajipur Junction Shatabdi Express",
+        "train_number": 85949,
+        "source_station": "Puri",
+        "source_station_code": "PURI",
+        "destination_station": "Hajipur Junction",
+        "destination_station_code": "HJP"
+    },
+    {
+        "train_name": "Gorakhpur Junction -> Dibrugarh Economy Express",
+        "train_number": 40930,
+        "source_station": "Gorakhpur Junction",
+        "source_station_code": "GKP",
+        "destination_station": "Dibrugarh",
+        "destination_station_code": "DBRG"
+    },
+    {
+        "train_name": "Kozhikode -> Gwalior Rajdhani Express",
+        "train_number": 33433,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Gwalior",
+        "destination_station_code": "GWL"
+    },
+    {
+        "train_name": "Rameswaram -> Hissar Konkan Kanya Express",
+        "train_number": 20197,
+        "source_station": "Rameswaram",
+        "source_station_code": "RMM",
+        "destination_station": "Hissar",
+        "destination_station_code": "HSR"
+    },
+    {
+        "train_name": "Amritsar Junction -> Madurai Junction Jan Shatabdi Express",
+        "train_number": 77160,
+        "source_station": "Amritsar Junction",
+        "source_station_code": "ASR",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Bhagalpur Junction Netravati Express",
+        "train_number": 45663,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Bhagalpur Junction",
+        "destination_station_code": "BGP"
+    },
+    {
+        "train_name": "Bikaner Junction -> Bhubaneswar Economy Express",
+        "train_number": 78997,
+        "source_station": "Bikaner Junction",
+        "source_station_code": "BKN",
+        "destination_station": "Bhubaneswar",
+        "destination_station_code": "BBS"
+    },
+    {
+        "train_name": "Kharagpur Junction -> Raipur Junction Rajdhani Express",
+        "train_number": 40157,
+        "source_station": "Kharagpur Junction",
+        "source_station_code": "KGP",
+        "destination_station": "Raipur Junction",
+        "destination_station_code": "R"
+    },
+    {
+        "train_name": "Mangalore Central -> Kharagpur Junction Konkan Kanya Express",
+        "train_number": 57245,
+        "source_station": "Mangalore Central",
+        "source_station_code": "MAQ",
+        "destination_station": "Kharagpur Junction",
+        "destination_station_code": "KGP"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Ajmer Junction Intercity Express",
+        "train_number": 59410,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Ajmer Junction",
+        "destination_station_code": "AII"
+    },
+    {
+        "train_name": "Dhanbad Junction -> Gaya Junction Double Decker Express",
+        "train_number": 88383,
+        "source_station": "Dhanbad Junction",
+        "source_station_code": "DHN",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Ratlam Junction Duronto Express",
+        "train_number": 71294,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Ratlam Junction",
+        "destination_station_code": "RTM"
+    },
+    {
+        "train_name": "Ranchi Junction -> Ujjain Junction Garib Rath Express",
+        "train_number": 59446,
+        "source_station": "Ranchi Junction",
+        "source_station_code": "RNC",
+        "destination_station": "Ujjain Junction",
+        "destination_station_code": "UJN"
+    },
+    {
+        "train_name": "Nagpur Junction -> Nanded Economy Express",
+        "train_number": 34975,
+        "source_station": "Nagpur Junction",
+        "source_station_code": "NGP",
+        "destination_station": "Nanded",
+        "destination_station_code": "NED"
+    },
+    {
+        "train_name": "Mumbai Central -> Ratlam Junction Tejas Express",
+        "train_number": 47304,
+        "source_station": "Mumbai Central",
+        "source_station_code": "BCT",
+        "destination_station": "Ratlam Junction",
+        "destination_station_code": "RTM"
+    },
+    {
+        "train_name": "Chennai Central -> Kharagpur Junction Tejas Express",
+        "train_number": 58690,
+        "source_station": "Chennai Central",
+        "source_station_code": "MAS",
+        "destination_station": "Kharagpur Junction",
+        "destination_station_code": "KGP"
+    },
+    {
+        "train_name": "Secunderabad Junction -> Rameswaram Duronto Express",
+        "train_number": 17042,
+        "source_station": "Secunderabad Junction",
+        "source_station_code": "SC",
+        "destination_station": "Rameswaram",
+        "destination_station_code": "RMM"
+    },
+    {
+        "train_name": "Kozhikode -> Chennai Central Mail Express",
+        "train_number": 69915,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Chennai Central",
+        "destination_station_code": "MAS"
+    },
+    {
+        "train_name": "Katihar Junction -> Ajmer Junction Tejas Express",
+        "train_number": 24315,
+        "source_station": "Katihar Junction",
+        "source_station_code": "KIR",
+        "destination_station": "Ajmer Junction",
+        "destination_station_code": "AII"
+    },
+    {
+        "train_name": "Jodhpur Junction -> Rameswaram Jan Shatabdi Express",
+        "train_number": 63038,
+        "source_station": "Jodhpur Junction",
+        "source_station_code": "JU",
+        "destination_station": "Rameswaram",
+        "destination_station_code": "RMM"
+    },
+    {
+        "train_name": "Muzaffarpur Junction -> New Delhi Shatabdi Express",
+        "train_number": 27956,
+        "source_station": "Muzaffarpur Junction",
+        "source_station_code": "MFP",
+        "destination_station": "New Delhi",
+        "destination_station_code": "NDLS"
+    },
+    {
+        "train_name": "Patna Junction -> Lucknow NR Jan Shatabdi Express",
+        "train_number": 80663,
+        "source_station": "Patna Junction",
+        "source_station_code": "PNBE",
+        "destination_station": "Lucknow NR",
+        "destination_station_code": "LKO"
+    },
+    {
+        "train_name": "Ratlam Junction -> Mangalore Central Double Decker Express",
+        "train_number": 68173,
+        "source_station": "Ratlam Junction",
+        "source_station_code": "RTM",
+        "destination_station": "Mangalore Central",
+        "destination_station_code": "MAQ"
+    },
+    {
+        "train_name": "Ajmer Junction -> Gaya Junction Express",
+        "train_number": 34855,
+        "source_station": "Ajmer Junction",
+        "source_station_code": "AII",
+        "destination_station": "Gaya Junction",
+        "destination_station_code": "GAYA"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Kozhikode Intercity Express",
+        "train_number": 25893,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Kozhikode",
+        "destination_station_code": "CLT"
+    },
+    {
+        "train_name": "Guwahati -> Jodhpur Junction Superfast Express",
+        "train_number": 34410,
+        "source_station": "Guwahati",
+        "source_station_code": "GHY",
+        "destination_station": "Jodhpur Junction",
+        "destination_station_code": "JU"
+    },
+    {
+        "train_name": "Mysore Junction -> Kozhikode Rajdhani Express",
+        "train_number": 63260,
+        "source_station": "Mysore Junction",
+        "source_station_code": "MYS",
+        "destination_station": "Kozhikode",
+        "destination_station_code": "CLT"
+    },
+    {
+        "train_name": "Mathura Junction -> Chandigarh August Kranti Express",
+        "train_number": 84682,
+        "source_station": "Mathura Junction",
+        "source_station_code": "MTJ",
+        "destination_station": "Chandigarh",
+        "destination_station_code": "CDG"
+    },
+    {
+        "train_name": "Bhubaneswar -> Madurai Junction Tejas Express",
+        "train_number": 17890,
+        "source_station": "Bhubaneswar",
+        "source_station_code": "BBS",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Bilaspur Junction -> Mysore Junction Tejas Express",
+        "train_number": 76740,
+        "source_station": "Bilaspur Junction",
+        "source_station_code": "BSP",
+        "destination_station": "Mysore Junction",
+        "destination_station_code": "MYS"
+    },
+    {
+        "train_name": "Rohtak Junction -> Thiruvananthapuram Central Tejas Express",
+        "train_number": 63986,
+        "source_station": "Rohtak Junction",
+        "source_station_code": "ROK",
+        "destination_station": "Thiruvananthapuram Central",
+        "destination_station_code": "TVC"
+    },
+    {
+        "train_name": "Kozhikode -> Aligarh Junction Duronto Express",
+        "train_number": 58263,
+        "source_station": "Kozhikode",
+        "source_station_code": "CLT",
+        "destination_station": "Aligarh Junction",
+        "destination_station_code": "ALJN"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Gorakhpur Junction Fast Passenger",
+        "train_number": 72589,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Gorakhpur Junction",
+        "destination_station_code": "GKP"
+    },
+    {
+        "train_name": "Secunderabad Junction -> Jodhpur Junction Netravati Express",
+        "train_number": 74957,
+        "source_station": "Secunderabad Junction",
+        "source_station_code": "SC",
+        "destination_station": "Jodhpur Junction",
+        "destination_station_code": "JU"
+    },
+    {
+        "train_name": "Silchar -> Rohtak Junction Konkan Kanya Express",
+        "train_number": 83465,
+        "source_station": "Silchar",
+        "source_station_code": "SCL",
+        "destination_station": "Rohtak Junction",
+        "destination_station_code": "ROK"
+    },
+    {
+        "train_name": "Vijayawada Junction -> Hubli Junction Fast Passenger",
+        "train_number": 11380,
+        "source_station": "Vijayawada Junction",
+        "source_station_code": "BZA",
+        "destination_station": "Hubli Junction",
+        "destination_station_code": "UBL"
+    },
+    {
+        "train_name": "Madurai Junction -> Tatanagar Junction Rajdhani Express",
+        "train_number": 15821,
+        "source_station": "Madurai Junction",
+        "source_station_code": "MDU",
+        "destination_station": "Tatanagar Junction",
+        "destination_station_code": "TATA"
+    },
+    {
+        "train_name": "Muzaffarpur Junction -> Howrah Junction Duronto Express",
+        "train_number": 53846,
+        "source_station": "Muzaffarpur Junction",
+        "source_station_code": "MFP",
+        "destination_station": "Howrah Junction",
+        "destination_station_code": "HWH"
+    },
+    {
+        "train_name": "Jaipur Junction -> Bilaspur Junction Sampark Kranti Express",
+        "train_number": 86288,
+        "source_station": "Jaipur Junction",
+        "source_station_code": "JP",
+        "destination_station": "Bilaspur Junction",
+        "destination_station_code": "BSP"
+    },
+    {
+        "train_name": "Kanpur Central -> Ambala Cantt Junction Double Decker Express",
+        "train_number": 86927,
+        "source_station": "Kanpur Central",
+        "source_station_code": "CNB",
+        "destination_station": "Ambala Cantt Junction",
+        "destination_station_code": "UMB"
+    },
+    {
+        "train_name": "Kharagpur Junction -> New Delhi August Kranti Express",
+        "train_number": 48714,
+        "source_station": "Kharagpur Junction",
+        "source_station_code": "KGP",
+        "destination_station": "New Delhi",
+        "destination_station_code": "NDLS"
+    },
+    {
+        "train_name": "Hubli Junction -> Siliguri Junction Mail",
+        "train_number": 81716,
+        "source_station": "Hubli Junction",
+        "source_station_code": "UBL",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Tirupati -> Secunderabad Junction Rajdhani Express",
+        "train_number": 38725,
+        "source_station": "Tirupati",
+        "source_station_code": "TPTY",
+        "destination_station": "Secunderabad Junction",
+        "destination_station_code": "SC"
+    },
+    {
+        "train_name": "Bikaner Junction -> Kharagpur Junction Tejas Express",
+        "train_number": 68023,
+        "source_station": "Bikaner Junction",
+        "source_station_code": "BKN",
+        "destination_station": "Kharagpur Junction",
+        "destination_station_code": "KGP"
+    },
+    {
+        "train_name": "Darbhanga Junction -> Agra Cantt Superfast Express",
+        "train_number": 15121,
+        "source_station": "Darbhanga Junction",
+        "source_station_code": "DBG",
+        "destination_station": "Agra Cantt",
+        "destination_station_code": "AGC"
+    },
+    {
+        "train_name": "Tatanagar Junction -> Ujjain Junction August Kranti Express",
+        "train_number": 84743,
+        "source_station": "Tatanagar Junction",
+        "source_station_code": "TATA",
+        "destination_station": "Ujjain Junction",
+        "destination_station_code": "UJN"
+    },
+    {
+        "train_name": "Lucknow NR -> Hajipur Junction Fast Passenger",
+        "train_number": 28918,
+        "source_station": "Lucknow NR",
+        "source_station_code": "LKO",
+        "destination_station": "Hajipur Junction",
+        "destination_station_code": "HJP"
+    },
+    {
+        "train_name": "Faridabad -> Mathura Junction Sampark Kranti Express",
+        "train_number": 17429,
+        "source_station": "Faridabad",
+        "source_station_code": "FDB",
+        "destination_station": "Mathura Junction",
+        "destination_station_code": "MTJ"
+    },
+    {
+        "train_name": "Silchar -> Chandigarh Superfast Express",
+        "train_number": 14257,
+        "source_station": "Silchar",
+        "source_station_code": "SCL",
+        "destination_station": "Chandigarh",
+        "destination_station_code": "CDG"
+    },
+    {
+        "train_name": "Kanpur Central -> Puri Double Decker Express",
+        "train_number": 57538,
+        "source_station": "Kanpur Central",
+        "source_station_code": "CNB",
+        "destination_station": "Puri",
+        "destination_station_code": "PURI"
+    },
+    {
+        "train_name": "Mysore Junction -> Siliguri Junction Rajdhani Express",
+        "train_number": 42323,
+        "source_station": "Mysore Junction",
+        "source_station_code": "MYS",
+        "destination_station": "Siliguri Junction",
+        "destination_station_code": "SGUJ"
+    },
+    {
+        "train_name": "Salem Junction -> Kota Junction Fast Passenger",
+        "train_number": 10919,
+        "source_station": "Salem Junction",
+        "source_station_code": "SA",
+        "destination_station": "Kota Junction",
+        "destination_station_code": "KOTA"
+    },
+    {
+        "train_name": "Muzaffarpur Junction -> Pune Junction Mail Express",
+        "train_number": 78188,
+        "source_station": "Muzaffarpur Junction",
+        "source_station_code": "MFP",
+        "destination_station": "Pune Junction",
+        "destination_station_code": "PUNE"
+    },
+    {
+        "train_name": "Mumbai Central -> Howrah Junction Tejas Express",
+        "train_number": 33931,
+        "source_station": "Mumbai Central",
+        "source_station_code": "BCT",
+        "destination_station": "Howrah Junction",
+        "destination_station_code": "HWH"
+    },
+    {
+        "train_name": "Madurai Junction -> Katihar Junction Rajdhani Express",
+        "train_number": 66792,
+        "source_station": "Madurai Junction",
+        "source_station_code": "MDU",
+        "destination_station": "Katihar Junction",
+        "destination_station_code": "KIR"
+    },
+    {
+        "train_name": "Meerut City -> Madurai Junction Rajdhani Express",
+        "train_number": 31639,
+        "source_station": "Meerut City",
+        "source_station_code": "MTC",
+        "destination_station": "Madurai Junction",
+        "destination_station_code": "MDU"
+    },
+    {
+        "train_name": "Raipur Junction -> Jabalpur Junction Rajdhani Express",
+        "train_number": 40663,
+        "source_station": "Raipur Junction",
+        "source_station_code": "R",
+        "destination_station": "Jabalpur Junction",
+        "destination_station_code": "JBP"
+    },
+    {
+        "train_name": "Howrah Junction -> Bilaspur Junction Duronto Express",
+        "train_number": 79657,
+        "source_station": "Howrah Junction",
+        "source_station_code": "HWH",
+        "destination_station": "Bilaspur Junction",
+        "destination_station_code": "BSP"
+    },
+    {
+        "train_name": "Varanasi Junction -> Guwahati Mail",
+        "train_number": 33863,
+        "source_station": "Varanasi Junction",
+        "source_station_code": "BSB",
+        "destination_station": "Guwahati",
+        "destination_station_code": "GHY"
+    }
+]
