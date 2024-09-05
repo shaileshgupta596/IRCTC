@@ -2,7 +2,16 @@ from rest_framework import serializers
 
 from core.models import Train, TrainCoaches
 
+
+class TrainCoachesSerializer(serializers.ModelSerializer):    
+    class Meta:
+        model = TrainCoaches
+        fields = ['number', 'name', 'type']
+
+
 class TrainSerializer(serializers.ModelSerializer):
+    train_coaches = TrainCoachesSerializer(many=True,read_only=True)
+
     class Meta:
         model = Train
-        fields = '__all__'
+        fields = ['number', 'name', 'train_coaches']

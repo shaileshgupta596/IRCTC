@@ -19,7 +19,7 @@ class TrainCoaches(models.Model):
     name = models.CharField(max_length=5)
     type = models.CharField(max_length=5, choices=CoachTypeChoice.choices)
     generation = models.CharField(max_length=5, choices=CoachGenerationType.choices)
-    train = models.ForeignKey(Train, on_delete=models.CASCADE)
+    train = models.ForeignKey(Train, on_delete=models.CASCADE, related_name='train_coaches')
     number_of_seats = models.PositiveSmallIntegerField()
 
     def __str__(self) -> str:

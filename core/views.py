@@ -2,7 +2,7 @@ from django.shortcuts import render
 from rest_framework import generics
 
 from core.models import Train
-from core.serializers import TrainSerializer
+from core.serializers import TrainSerializer, TrainCoachesSerializer
 
 # Create your views here.
 
