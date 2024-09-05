@@ -1,12 +1,12 @@
 from django.contrib import admin
 
-from core.models import Station, Train
+from core.models import Train, TrainCoaches
 
 # Register your models here.
 
-@admin.register(Station)
-class StationAdminForm(admin.ModelAdmin):
-    pass
+@admin.register(TrainCoaches)
+class TrainCoachesAdminForm(admin.ModelAdmin):
+    list_display = ['train', 'number', 'name', 'type']
 
 
 @admin.register(Train)
