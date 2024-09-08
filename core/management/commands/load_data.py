@@ -4,7 +4,8 @@ import requests
 import json
 from django.conf import settings
 
-from core.models import Station, Train
+from core.models import Train
+from station.models import Station
 
 class Command(BaseCommand):
     help = "Load Data in Backend"

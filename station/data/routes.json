@@ -1,0 +1,454 @@
+[
+      {
+        "code": "ADI",
+        "name": "Ahmedabad Junction",
+        "backward_stations": ["BVC"],
+        "forward_stations": ["BCT"]
+      },
+      {
+        "code": "AGC",
+        "name": "Agra Cantt",
+        "backward_stations": ["JHS"],
+        "forward_stations": ["AII"]
+      },
+      {
+        "code": "AII",
+        "name": "Ajmer Junction",
+        "backward_stations": ["AGC"],
+        "forward_stations": ["JP"]
+      },
+      {
+        "code": "ALJN",
+        "name": "Aligarh Junction",
+        "backward_stations": ["AGC"],
+        "forward_stations": ["NDLS"]
+      },
+      {
+        "code": "ASR",
+        "name": "Amritsar Junction",
+        "backward_stations": ["LDH"],
+        "forward_stations": ["ALJN"]
+      },
+      {
+        "code": "BBS",
+        "name": "Bhubaneswar",
+        "backward_stations": ["HWH"],
+        "forward_stations": ["VSKP"]
+      },
+      {
+        "code": "BCT",
+        "name": "Mumbai Central",
+        "backward_stations": ["ADI"],
+        "forward_stations": ["VSKP"]
+      },
+      {
+        "code": "BGP",
+        "name": "Bhagalpur Junction",
+        "backward_stations": ["DBG"],
+        "forward_stations": ["PNBE"]
+      },
+      {
+        "code": "BKN",
+        "name": "Bikaner Junction",
+        "backward_stations": ["AII"],
+        "forward_stations": ["JU"]
+      },
+      {
+        "code": "BPL",
+        "name": "Bhopal Junction",
+        "backward_stations": ["GWL"],
+        "forward_stations": ["R"]
+      },
+      {
+        "code": "BSB",
+        "name": "Varanasi Junction",
+        "backward_stations": ["PRYJ"],
+        "forward_stations": ["PNBE"]
+      },
+      {
+        "code": "BSL",
+        "name": "Bhusawal Junction",
+        "backward_stations": ["KYN"],
+        "forward_stations": ["NGP"]
+      },
+      {
+        "code": "BSP",
+        "name": "Bilaspur Junction",
+        "backward_stations": ["RNC"],
+        "forward_stations": ["BVC"]
+      },
+      {
+        "code": "BVC",
+        "name": "Bhavnagar Terminus",
+        "backward_stations": ["BSP"],
+        "forward_stations": ["ADI"]
+      },
+      {
+        "code": "BWN",
+        "name": "Barddhaman Junction",
+        "backward_stations": ["HWH"],
+        "forward_stations": ["SGUJ"]
+      },
+      {
+        "code": "BZA",
+        "name": "Vijayawada Junction",
+        "backward_stations": ["VSKP"],
+        "forward_stations": ["TPTY"]
+      },
+      {
+        "code": "CBE",
+        "name": "Coimbatore Junction",
+        "backward_stations": ["MAS"],
+        "forward_stations": ["SA"]
+      },
+      {
+        "code": "CDG",
+        "name": "Chandigarh",
+        "backward_stations": ["ALJN"],
+        "forward_stations": ["UMB"]
+      },
+      {
+        "code": "CLT",
+        "name": "Kozhikode",
+        "backward_stations": ["TVC"],
+        "forward_stations": ["MYS"]
+      },
+      {
+        "code": "CNB",
+        "name": "Kanpur Central",
+        "backward_stations": ["AGC"],
+        "forward_stations": ["LKO"]
+      },
+      {
+        "code": "CSMT",
+        "name": "Chhatrapati Shivaji Maharaj Terminus",
+        "backward_stations": [],
+        "forward_stations": ["KYN"]
+      },
+      {
+        "code": "DBG",
+        "name": "Darbhanga Junction",
+        "backward_stations": ["GAYA"],
+        "forward_stations": ["BGP"]
+      },
+      {
+        "code": "DBRG",
+        "name": "Dibrugarh",
+        "backward_stations": ["GHY"],
+        "forward_stations": ["SCL"]
+      },
+      {
+        "code": "DHN",
+        "name": "Dhanbad Junction",
+        "backward_stations": ["HJP"],
+        "forward_stations": ["RNC"]
+      },
+      {
+        "code": "FDB",
+        "name": "Faridabad",
+        "backward_stations": ["NDLS"],
+        "forward_stations": ["LKO"]
+      },
+      {
+        "code": "GAYA",
+        "name": "Gaya Junction",
+        "backward_stations": ["BSB"],
+        "forward_stations": ["DBG"]
+      },
+      {
+        "code": "GHY",
+        "name": "Guwahati",
+        "backward_stations": ["DBRG"],
+        "forward_stations": ["SCL"]
+      },
+      {
+        "code": "GKP",
+        "name": "Gorakhpur Junction",
+        "backward_stations": ["PRYJ"],
+        "forward_stations": ["LKO"]
+      },
+      {
+        "code": "GWL",
+        "name": "Gwalior",
+        "backward_stations": ["BPL"],
+        "forward_stations": ["JBP"]
+      },
+      {
+        "code": "HJP",
+        "name": "Hajipur Junction",
+        "backward_stations": ["GAYA"],
+        "forward_stations": ["DHN"]
+      },
+      {
+        "code": "HSR",
+        "name": "Hissar",
+        "backward_stations": ["RE"],
+        "forward_stations": ["CDG"]
+      },
+      {
+        "code": "HWH",
+        "name": "Howrah Junction",
+        "backward_stations": ["BWN"],
+        "forward_stations": ["BBS"]
+      },
+      {
+        "code": "JBP",
+        "name": "Jabalpur Junction",
+        "backward_stations": ["GWL"],
+        "forward_stations": ["JHS"]
+      },
+      {
+        "code": "JHS",
+        "name": "Jhansi Junction",
+        "backward_stations": ["AGC"],
+        "forward_stations": ["AII"]
+      },
+      {
+        "code": "JP",
+        "name": "Jaipur Junction",
+        "backward_stations": ["AII"],
+        "forward_stations": ["JU"]
+      },
+      {
+        "code": "JU",
+        "name": "Jodhpur Junction",
+        "backward_stations": ["JP"],
+        "forward_stations": ["BKN"]
+      },
+      {
+        "code": "KGP",
+        "name": "Kharagpur Junction",
+        "backward_stations": ["CLT"],
+        "forward_stations": ["R"]
+      },
+      {
+        "code": "KIR",
+        "name": "Katihar Junction",
+        "backward_stations": ["DBG"],
+        "forward_stations": ["PNBE"]
+      },
+      {
+        "code": "KOTA",
+        "name": "Kota Junction",
+        "backward_stations": ["RTM"],
+        "forward_stations": ["JU"]
+      },
+      {
+        "code": "KYN",
+        "name": "Kalyan Junction",
+        "backward_stations": ["CSMT"],
+        "forward_stations": ["NSK", "PUNE"]
+      },
+      {
+        "code": "LDH",
+        "name": "Ludhiana Junction",
+        "backward_stations": ["ASR"],
+        "forward_stations": ["ALJN"]
+      },
+      {
+        "code": "LKO",
+        "name": "Lucknow NR",
+        "backward_stations": ["CNB"],
+        "forward_stations": ["GKP"]
+      },
+      {
+        "code": "MAQ",
+        "name": "Mangalore Central",
+        "backward_stations": ["UBL"],
+        "forward_stations": ["SC"]
+      },
+      {
+        "code": "MAS",
+        "name": "Chennai Central",
+        "backward_stations": ["CBE"],
+        "forward_stations": ["MDU"]
+      },
+      {
+        "code": "MDU",
+        "name": "Madurai Junction",
+        "backward_stations": ["MAS"],
+        "forward_stations": ["RMM"]
+      },
+      {
+        "code": "MFP",
+        "name": "Muzaffarpur Junction",
+        "backward_stations": ["DBG"],
+        "forward_stations": ["PNBE"]
+      },
+      {
+        "code": "MTC",
+        "name": "Meerut City",
+        "backward_stations": ["ALJN"],
+        "forward_stations": ["NDLS"]
+      },
+      {
+        "code": "MTJ",
+        "name": "Mathura Junction",
+        "backward_stations": ["JHS"],
+        "forward_stations": ["MTC"]
+      },
+      {
+        "code": "MYS",
+        "name": "Mysore Junction",
+        "backward_stations": ["CLT"],
+        "forward_stations": ["SA"]
+      },
+      {
+        "code": "NDLS",
+        "name": "New Delhi",
+        "backward_stations": ["MTC"],
+        "forward_stations": ["ALJN"]
+      },
+      {
+        "code": "NED",
+        "name": "Nanded",
+        "backward_stations": ["PUNE"],
+        "forward_stations": ["UBL"]
+      },
+      {
+        "code": "NGP",
+        "name": "Nagpur Junction",
+        "backward_stations": ["BSL"],
+        "forward_stations": ["R"]
+      },
+      {
+        "code": "NSK",
+        "name": "Nashik Road",
+        "backward_stations": ["KYN"],
+        "forward_stations": ["BSL"]
+      },
+      {
+        "code": "PNBE",
+        "name": "Patna Junction",
+        "backward_stations": ["MFP"],
+        "forward_stations": ["BSB"]
+      },
+      {
+        "code": "PNP",
+        "name": "Panipat Junction",
+        "backward_stations": ["NDLS"],
+        "forward_stations": ["RE"]
+      },
+      {
+        "code": "PRYJ",
+        "name": "Allahabad Junction",
+        "backward_stations": ["GKP"],
+        "forward_stations": ["BSB"]
+      },
+      {
+        "code": "PUNE",
+        "name": "Pune Junction",
+        "backward_stations": ["KYN"],
+        "forward_stations": ["NED"]
+      },
+      {
+        "code": "PURI",
+        "name": "Puri",
+        "backward_stations": ["BBS"],
+        "forward_stations": ["VSKP"]
+      },
+      {
+        "code": "R",
+        "name": "Raipur Junction",
+        "backward_stations": ["KGP"],
+        "forward_stations": ["BSP"]
+      },
+      {
+        "code": "RE",
+        "name": "Rewari Junction",
+        "backward_stations": ["PNP"],
+        "forward_stations": ["HSR"]
+      },
+      {
+        "code": "RMM",
+        "name": "Rameswaram",
+        "backward_stations": ["MDU"],
+        "forward_stations": ["SC"]
+      },
+      {
+        "code": "RNC",
+        "name": "Ranchi Junction",
+        "backward_stations": ["DHN"],
+        "forward_stations": ["BSP"]
+      },
+      {
+        "code": "ROK",
+        "name": "Rohtak Junction",
+        "backward_stations": ["RE"],
+        "forward_stations": ["PNP"]
+      },
+      {
+        "code": "RTM",
+        "name": "Ratlam Junction",
+        "backward_stations": ["UJN"],
+        "forward_stations": ["KOTA"]
+      },
+      {
+        "code": "SA",
+        "name": "Salem Junction",
+        "backward_stations": ["CBE"],
+        "forward_stations": ["MYS"]
+      },
+      {
+        "code": "SC",
+        "name": "Secunderabad Junction",
+        "backward_stations": ["SA"],
+        "forward_stations": ["TPTY"]
+      },
+      {
+        "code": "SCL",
+        "name": "Silchar",
+        "backward_stations": ["GHY"],
+        "forward_stations": ["DBRG"]
+      },
+      {
+        "code": "SGUJ",
+        "name": "Siliguri Junction",
+        "backward_stations": ["TATA"],
+        "forward_stations": ["SCL"]
+      },
+      {
+        "code": "TATA",
+        "name": "Tatanagar Junction",
+        "backward_stations": ["SGUJ"],
+        "forward_stations": ["BSP"]
+      },
+      {
+        "code": "TPTY",
+        "name": "Tirupati",
+        "backward_stations": ["SC"],
+        "forward_stations": ["VSKP"]
+      },
+      {
+        "code": "TVC",
+        "name": "Thiruvananthapuram Central",
+        "backward_stations": ["RMM"],
+        "forward_stations": ["CLT"]
+      },
+      {
+        "code": "UBL",
+        "name": "Hubli Junction",
+        "backward_stations": ["NED"],
+        "forward_stations": ["MAQ"]
+      },
+      {
+        "code": "UJN",
+        "name": "Ujjain Junction",
+        "backward_stations": ["RTM"],
+        "forward_stations": ["KOTA"]
+      },
+      {
+        "code": "UMB",
+        "name": "Ambala Cantt Junction",
+        "backward_stations": ["CDG"],
+        "forward_stations": ["ROK"]
+      },
+      {
+        "code": "VSKP",
+        "name": "Visakhapatnam",
+        "backward_stations": ["TPTY"],
+        "forward_stations": ["PURI"]
+      }
+    ]
+
+  

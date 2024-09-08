@@ -16,3 +16,13 @@ class TrainDetailAPIView(generics.RetrieveAPIView):
     serializer_class = TrainSerializer
     lookup_field = 'number'
 
+
+class TrainBetweenStationListAPIView(generics.ListAPIView):
+    queryset = Train.objects.all()
+    serializer_class = TrainSerializer
+
+    def get_queryset(self):
+        source = self.kwargs.get('source')
+        destination = self.kwargs.get('destination')
+        return super().get_queryset().train_between_stations(source=source, destination=destination)
+

@@ -450,16 +450,6 @@
         "station_type": "Terminus"
       },
       {
-        "station_name": "Vijayawada Junction",
-        "station_code": "BZA",
-        "number_of_platforms": 10,
-        "zone_code": "SCR",
-        "zone_name": "South Central Railway",
-        "state": "Andhra Pradesh",
-        "state_code": "AP",
-        "station_type": "Junction"
-      },
-      {
         "station_name": "Katihar Junction",
         "station_code": "KIR",
         "number_of_platforms": 7,
@@ -690,16 +680,6 @@
         "station_type": "Junction"
       },
       {
-        "station_name": "Vijayawada Junction",
-        "station_code": "BZA",
-        "number_of_platforms": 10,
-        "zone_code": "SCR",
-        "zone_name": "South Central Railway",
-        "state": "Andhra Pradesh",
-        "state_code": "AP",
-        "station_type": "Junction"
-      },
-      {
         "station_name": "Chandigarh",
         "station_code": "CDG",
         "number_of_platforms": 4,
@@ -728,6 +708,46 @@
         "state": "Haryana",
         "state_code": "HR",
         "station_type": "Junction"
+      },
+      {
+        "station_name": "Chhtrapati Shivaji Mahararaj Terminus",
+        "station_code": "CSMT",
+        "number_of_platforms": 18,
+        "zone_code": "CR",
+        "zone_name": "Central Railway",
+        "state": "Maharashtra",
+        "state_code": "MH",
+        "station_type": "Terminus"
+      },
+      {
+        "station_name": "Kalyan Junction",
+        "station_code": "KYN",
+        "number_of_platforms": 7,
+        "zone_code": "CR",
+        "zone_name": "Central Railway",
+        "state": "Maharashtra",
+        "state_code": "MH",
+        "station_type": "Junction"
+      },
+      {
+        "station_name": "Nashik Road",
+        "station_code": "NSK",
+        "number_of_platforms": 5,
+        "zone_code": "CR",
+        "zone_name": "Central Railway",
+        "state": "Maharashtra",
+        "state_code": "MH",
+        "station_type": "Normal"
+      },
+      {
+        "station_name": "Bhusawal Junction",
+        "station_code": "BSL",
+        "number_of_platforms": 9,
+        "zone_code": "CR",
+        "zone_name": "Central Railway",
+        "state": "Maharashtra",
+        "state_code": "MH",
+        "station_type": "Jucntion"
       }
     ]
   

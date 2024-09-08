@@ -11,5 +11,16 @@ class Station(models.Model):
     state = models.CharField(max_length=2, choices=IndianState.choices)
     zone = models.CharField(max_length=5, choices=IndianRailwayZone.choices)
 
+    class Meta:
+        ordering = ['code']
+
     def __str__(self):
         return f'{self.code}-{self.name}'
+    
+
+class StationRoute(models.Model):
+    station = models.ForeignKey(Station, on_delete=models.CASCADE)
+    routes = models.ManyToManyField(Station, related_name='routes')
+
+    def __str__(self):
+        return self.station.name

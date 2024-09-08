@@ -10,6 +10,8 @@ class CoachTypeChoice(models.TextChoices):
     AC3 = 'AC3', 'AirConditioner 3'
     AC2 = 'AC2', 'AirConditioner 2'
     FIRSTCLASS = 'H', 'FIRSTCLASS'
+    CHAIRCAR = 'CC', 'Chair Car'
+    EXECUTIVECLASS = 'EC', 'Executive Class'
 
 
 class CoachGenerationType(models.TextChoices):
@@ -17,3 +19,5 @@ class CoachGenerationType(models.TextChoices):
     LHB = 'LHB', 'LHB'
     ICF = 'ICF', 'ICF'
     DOUBLE_DECKAR = 'DD', 'Double Decker'
+
+    
