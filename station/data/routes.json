@@ -56,8 +56,8 @@
       {
         "code": "BPL",
         "name": "Bhopal Junction",
-        "backward_stations": ["GWL"],
-        "forward_stations": ["R"]
+        "backward_stations": ["GWL", "BSL"],
+        "forward_stations": ["R", "JHS"]
       },
       {
         "code": "BSB",
@@ -68,8 +68,8 @@
       {
         "code": "BSL",
         "name": "Bhusawal Junction",
-        "backward_stations": ["KYN"],
-        "forward_stations": ["NGP"]
+        "backward_stations": ["NSK"],
+        "forward_stations": ["NGP", "BPL"]
       },
       {
         "code": "BSP",
@@ -171,7 +171,7 @@
         "code": "GWL",
         "name": "Gwalior",
         "backward_stations": ["BPL"],
-        "forward_stations": ["JBP"]
+        "forward_stations": ["JBP", "JHS"]
       },
       {
         "code": "HJP",
@@ -200,7 +200,7 @@
       {
         "code": "JHS",
         "name": "Jhansi Junction",
-        "backward_stations": ["AGC"],
+        "backward_stations": ["AGC", "GWL", "JBP"],
         "forward_stations": ["AII"]
       },
       {
