@@ -8,6 +8,8 @@ from core.choices import (CoachGenerationType as CGT,
                         CoachTypeChoice as CTC)
 from core.configurations.coach_configurations import *
 
+from station.models import Station
+
 
 class TrainModelQuerySet(models.QuerySet):
     def train_between_stations(self, source=None, destination=None):
@@ -40,6 +42,17 @@ class Train(models.Model):
 
     def __str__(self):
         return f"{self.number} - {self.name}"
+    
+
+class TrainHalts(models.Model):
+    train = models.ForeignKey(Train, on_delete=models.CASCADE, related_name='train_halts')
+    halts = models.ForeignKey(Station, on_delete=models.CASCADE, related_name='station_halts')
+    at_halt = models.BooleanField(default=True)
+
+
+    def __str__(self):
+        return f'{self.train.number} - {self.halts.name}'
+
     
 
 class TrainCoaches(models.Model):

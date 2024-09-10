@@ -1,8 +1,10 @@
 from django.contrib import admin
 
-from core.models import Train, TrainCoaches
+from core.models import Train, TrainCoaches, TrainHalts
 
 # Register your models here.
+
+
 
 @admin.register(TrainCoaches)
 class TrainCoachesAdminForm(admin.ModelAdmin):
@@ -11,4 +13,9 @@ class TrainCoachesAdminForm(admin.ModelAdmin):
 
 @admin.register(Train)
 class TrainAdminForm(admin.ModelAdmin):
+    pass
+
+
+@admin.register(TrainHalts)
+class TrainHaltAdminForm(admin.ModelAdmin):
     pass
