@@ -1,7 +1,7 @@
 from django.shortcuts import render
 from rest_framework import generics
 
-from core.models import Train
+from core.models import Train, TrainHalts
 from core.serializers import TrainSerializer, TrainCoachesSerializer
 
 # Create your views here.
@@ -25,4 +25,5 @@ class TrainBetweenStationListAPIView(generics.ListAPIView):
         source = self.kwargs.get('source')
         destination = self.kwargs.get('destination')
         return super().get_queryset().train_between_stations(source=source, destination=destination)
+    
 

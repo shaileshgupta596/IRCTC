@@ -11,8 +11,6 @@ express_train_types = [
     "Mail Express",            # Trains serving both passenger and freight purposes
     "Jan Shatabdi Express",    # Economical variant of Shatabdi Express
     "Garib Rath Express",      # Budget train service for economically weaker sections
-    "Netravati Express",       # Express train serving the Konkan region
-    "Konkan Kanya Express",    # Express train serving the Konkan region
     "August Kranti Express",   # Express trains commemorating the August Kranti movement
     "Sampark Kranti Express",  # Express trains connecting major cities with fewer stops
     "Tejas Express",           # Premium train offering modern amenities

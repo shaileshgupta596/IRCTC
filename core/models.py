@@ -42,7 +42,7 @@ class Train(models.Model):
 
     def __str__(self):
         return f"{self.number} - {self.name}"
-    
+
 
 class TrainHalts(models.Model):
     train = models.ForeignKey(Train, on_delete=models.CASCADE, related_name='train_halts')
