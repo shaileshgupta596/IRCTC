@@ -21,4 +21,5 @@ urlpatterns = [
     path('admin/', admin.site.urls),
     path('irctc/', include('core.urls')),
     path('station/', include('station.urls')),
+    path('trip/', include('trip.urls')),
 ]
