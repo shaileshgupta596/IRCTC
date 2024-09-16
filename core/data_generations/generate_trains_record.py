@@ -48,6 +48,7 @@ def main():
                 all_trains_dict[train_name] = {
                     'train_name': train_name,
                     'train_number': int(random.uniform(10000, 90000)),
+                    'express_type': express_type,
                     'source_station' : source.get('station_name'),
                     'source_station_code': source.get('station_code'),
                     'destination_station' : destination.get('station_name'),

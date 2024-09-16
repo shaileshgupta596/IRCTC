@@ -1,0 +1,138 @@
+{
+    "Rajdhani Express": {
+        "H": 2,
+        "AC2": 6,
+        "AC3": 10,
+        "PT": 1,
+        "SL": 3,
+        "GEN": 2
+    },
+    "Shatabdi Express": {
+        "EC": 2,
+        "CC": 16,
+        "LG": 1,
+        "PT": 1,
+        "GN": 2,
+        "GEN": 2
+    },
+    "Duronto Express": {
+        "H": 2,
+        "AC2": 4,
+        "AC3": 8,
+        "SL": 6,
+        "PT": 1,
+        "GN": 1,
+        "GEN": 2
+    },
+    "Superfast Express": {
+        "SL": 12,
+        "AC2": 3,
+        "AC3": 4,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Mail Express": {
+        "SL": 12,
+        "AC2": 3,
+        "AC3": 4,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Jan Shatabdi Express": {
+        "CC": 4,
+        "GN": 16,
+        "LG": 1,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Garib Rath Express": {
+        "AC3": 20,
+        "LG": 1,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Netravati Express": {
+        "SL": 12,
+        "AC2": 3,
+        "AC3": 4,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Konkan Kanya Express": {
+        "SL": 12,
+        "AC2": 3,
+        "AC3": 4,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2
+    },
+    "August Kranti Express": {
+        "H": 2,
+        "AC2": 4,
+        "AC3": 8,
+        "SL": 6,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Sampark Kranti Express": {
+        "SL": 12,
+        "AC2": 4,
+        "AC3": 6,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2
+    },
+    "Tejas Express": {
+        "EC": 3,
+        "CC": 16,
+        "PT": 1,
+        "GEN": 2,
+        "LG": 2
+    },
+    "Express": {
+        "SL": 14,
+        "AC2": 3,
+        "AC3": 4,
+        "GN": 4,
+        "PT": 1,
+        "GEN": 2,
+        "LG": 1
+    },
+    "Intercity Express": {
+        "CC": 10,
+        "GN": 10,
+        "LG": 2,
+        "GEN": 2
+    },
+    "Double Decker Express": {
+        "CC": 20,
+        "LG": 2,
+        "GEN": 2
+    },
+    "Fast Passenger": {
+        "SL": 12,
+        "GN": 8,
+        "PT": 1,
+        "LG": 1,
+        "GEN": 2
+    },
+    "Mail": {
+        "SL": 14,
+        "AC2": 3,
+        "AC3": 4,
+        "PT": 1,
+        "GEN": 2,
+        "LG": 1,
+        "GN": 4
+    },
+    "Economy Express": {
+        "SL": 12,
+        "GN": 8,
+        "PT": 1,
+        "GEN": 2,
+        "LG": 1
+    }
+}

@@ -30,6 +30,7 @@ class TrainModelManager(models.Manager):
 class Train(models.Model):
     name = models.CharField(max_length=200, unique=True)
     number = models.CharField(max_length=5, unique=True)
+    express_type = models.CharField(max_length=120, blank=True, null=True)
     source = models.CharField(max_length=200)
     source_station_code = models.CharField(max_length=5)
     destination = models.CharField(max_length=200)
@@ -89,10 +90,10 @@ def train_coaches_pre_save_handler(sender, instance, *args, **kwargs):
         elif instance.generation == CGT.LHB and instance.type == CTC.AC3:
             instance.number_of_seats = LHB_AC3
 
-        elif instance.generation == CGT.choices.LHB and instance.type == CTC.AC2:
+        elif instance.generation == CGT.LHB and instance.type == CTC.AC2:
             instance.number_of_seats = LHB_AC2
 
-        elif instance.generation == CGT.choices.LHB and instance.type == CTC.FIRSTCLASS:
+        elif instance.generation == CGT.LHB and instance.type == CTC.FIRSTCLASS:
             instance.number_of_seats = LHB_FIRSTCLASS
 
         elif instance.generation == CGT.VANDE_BHARAT and instance.type == CTC.CHAIRCAR:

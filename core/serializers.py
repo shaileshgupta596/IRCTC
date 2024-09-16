@@ -25,3 +25,9 @@ class TrainSerializer(serializers.ModelSerializer):
         model = Train
         fields = ['number', 'name', 'source']
 
+
+class TrainCoachSerializer(serializers.ModelSerializer):
+    class Meta:
+        model = TrainCoaches
+        fields = ['number', 'name', 'number_of_seats']
+

@@ -45,6 +45,7 @@ class Command(BaseCommand):
                     all_train_instance.append(Train(
                         name = train_rec.get('train_name'),
                         number = train_rec.get('train_number'),
+                        express_type = train_rec.get('express_type'),
                         source = train_rec.get('source_station'),
                         source_station_code = train_rec.get('source_station_code'),
                         destination = train_rec.get('destination_station'),
