@@ -1,5 +1,6 @@
 from django.db import models
 from django.utils import timezone
+from django.urls import reverse
 from datetime import date, timedelta
 from django.core.exceptions import ValidationError
 from core.models import Train, TrainCoaches
@@ -7,10 +8,9 @@ from core.models import Train, TrainCoaches
 # Create your models here.
 
 def validated_date(trip_date):
-    
-    if trip_date >= date.today():
+    if trip_date < date.today():
         raise ValidationError("Selected Past Date. Booking not available.")
-    elif date.today() + timedelta(days=120)  < trip_date:
+    elif date.today() + timedelta(days=30)  < trip_date:
         raise ValidationError("Booking Not Available for selected Date.") 
 
 class TrainSeatAvailable(models.Model):
@@ -20,3 +20,8 @@ class TrainSeatAvailable(models.Model):
 
     def __str__(self) -> str:
         return f"{self.train.name} -> {self.date}"
+    
+
+    def get_absolute_url(self):
+        return self.pk
+    

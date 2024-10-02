@@ -1,6 +1,7 @@
 from django.shortcuts import render
 from rest_framework import generics
-
+from rest_framework_simplejwt.authentication import JWTAuthentication
+from rest_framework import authentication, permissions
 from core.models import Train, TrainHalts, TrainCoaches
 from core.serializers import TrainSerializer, TrainCoachesSerializer, TrainCoachSerializer
 
@@ -9,6 +10,8 @@ from core.serializers import TrainSerializer, TrainCoachesSerializer, TrainCoach
 class TrainListAPIView(generics.ListAPIView):
     queryset = Train.objects.all()
     serializer_class = TrainSerializer
+    authentication_classes = [JWTAuthentication]
+    permission_classes = [permissions.IsAuthenticated]
 
 
 class TrainDetailAPIView(generics.RetrieveAPIView):
